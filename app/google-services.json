@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88122091673",
+    "project_id": "myecommerceapp-cb2ff",
+    "storage_bucket": "myecommerceapp-cb2ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88122091673:android:7c77b19b43b8879ffa3008",
+        "android_client_info": {
+          "package_name": "com.example.myecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv9WiVHZ959Bbq_sww7jixxzS8w3u5zBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
